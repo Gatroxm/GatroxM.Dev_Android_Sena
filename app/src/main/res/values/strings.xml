@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gatrox Natural</string>
+    <string name="login_title">¡Bienvenido!</string>
+    <string name="login_subtitle">Inicia sesión en Gatrox Natural</string>
+    <string name="email_hint">Correo Electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="not_registered">¿Usuario no registrado? Regístrate</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="register_subtitle">Únete a nuestra comunidad verde</string>
+    <string name="btn_register">Registrar</string>
+    <string name="already_registered">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="home_title">Catálogo de Servicios</string>
+    <string name="home_subtitle">Descubre nuestras rutas ecológicas y productos sostenibles</string>
+    <string name="msg_login_success">Ingreso correcto</string>
+    <string name="msg_login_failed">Ingreso fallido</string>
+    <string name="msg_empty_fields">Por favor complete todos los campos</string>
+    <string name="msg_passwords_dont_match">Las contraseñas no coinciden</string>
+    <string name="msg_password_too_short">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="msg_register_success">Registro exitoso</string>
+    <string name="msg_register_failed">Error en el registro</string>
+    <string name="msg_logout">Sesión cerrada</string>
+    <string name="msg_chat_contact">Iniciando chat de contacto y soporte&#8230;</string>
+    <string name="btn_explore">Explorar Más</string>
+    <string name="action_logout">Cerrar Sesión</string>
+</resources>
